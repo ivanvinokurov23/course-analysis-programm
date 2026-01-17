@@ -1,0 +1,8 @@
+N, M, Q, cw, sw, hw, tw = map(str, input().split())
+print(M)
+print(N)
+print(cw)
+print(sw)
+print(hw)
+print(tw)
+print(Q)
